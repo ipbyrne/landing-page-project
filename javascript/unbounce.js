@@ -1,0 +1,1 @@
+window.ub=function(){var i=function(){for(var i,n=document.cookie.split(";"),r=0;r<n.length;r++)if(null!==n[r]&&void 0!==n[r]&&jQuery.trim(n[r]).match(/^ubvs=/i)){i=n[r].split("=")[1];break}return i};return{page:{id:"",variantId:"",visitorId:i(),name:""}}}();

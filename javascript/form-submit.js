@@ -1,0 +1,1 @@
+lp.jQuery().ready(function(){lp.jQuery("#lp-pom-button-47").click(function(o){o.preventDefault(),o.stopPropagation(),lp.jQuery("div.lp-pom-form form").submit()})});

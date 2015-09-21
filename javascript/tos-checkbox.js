@@ -1,0 +1,1 @@
+(function(){$("#lp-pom-button-109").click(function(e){$($("#checkboxRead")).attr("checked")?$("#lp-pom-button-109").removeClass("disabled"):(e.preventDefault(),alert("Please check that you have read terms and conditions"))}),$("#checkboxRead").click(function(){$(this).attr("checked")?$("#lp-pom-button-109").removeClass("disabled"):$("#lp-pom-button-109").addClass("disabled")})});
